@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-taiwan-stocks",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Taiwan equities MCP. Keyless.",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-1527a9a7693298ecddd8187897d3cdc3168ff07ff6eb68247b1d2e9cb43a1a5a",
+    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
   }
 }
