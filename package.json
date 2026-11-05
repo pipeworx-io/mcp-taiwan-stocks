@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-taiwan-stocks",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Taiwan equities MCP. Keyless.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "taiwan-stocks",
     "gatewaySlug": "taiwan-stocks",
-    "sourceHash": "v1-0185033d4c356b68f5a959c961d0955b1e268a112584ff81c8c7347b88460734",
-    "sourceCommit": "f47d581679e1e887373df51ba623f891fbe4c464"
+    "sourceHash": "v1-007761fd516e1fdc2c2b9113dbdd0a526f289086c44c3be675b9faf5667d17aa",
+    "sourceCommit": "868e119d526d5409447b7ee2149afba7eb9d2593"
   }
 }
